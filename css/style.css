@@ -678,6 +678,11 @@ footer nav ul:first-of-type {
   margin-bottom: 2.5rem;
 }
 
+.border {
+  border: solid 1px #DDDDDD;
+  box-sizing: border-box;
+}
+
 #dl_btn {
   position: fixed;
   bottom: 0.5rem;
